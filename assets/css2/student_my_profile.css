@@ -1,0 +1,420 @@
+.student-side-bar-head{
+	text-align:center;
+	margin-top:20px;
+	padding-bottom:20px;
+	color:#394263;
+	border-bottom:1px dashed rgba(5,5,5,0.1);/*
+	min-height:300px !important;*/
+} 
+.student-side-bar-head img{
+	margin:auto;
+	border-width:1px;
+	border-color:#555;
+	border-radius:50%;
+	
+}
+.student-side-bar-head .stdatsch{
+	font-size:12px;
+	color:#394263;
+}
+.port-Num{
+	color:#9A3716;
+	border:1px solid red;
+}
+ 
+.student-side-bar-head .btn-group{
+	border:1px solid #CCD4F3;
+	background:rgba(204, 212, 243, 0.4);
+	color:#13558D;
+	font-size:14px;
+	padding:7px;
+	border-radius:2px;
+	margin-top:10px;
+}
+
+.student-side-bar-about a{
+	text-decoration:none;
+	display:block;
+	padding:0px;
+	float:left;
+	margin-left:17px;
+}
+
+.student-side-bar-about i{
+	font-size:27px;
+	padding:2px;
+	color: #5D7CAB;
+	margin-top: 4px;
+	border-radius:50px;
+	border-radius:100px;
+	
+}
+
+.container-tables{
+	font-size:14px;
+	font-family: 'Roboto-Light';
+
+}
+
+.student-side-bar-about i:hover{
+	color:#818DA2;
+	
+}
+
+
+
+.breadcrumb > li{
+	font-size:12px;
+}
+
+.nav-line > li.active > a, .nav-line > li.active > a:hover, .nav-line > li.active > a:active, .nav-line > li.active > a:focus {
+	box-shadow: 0px 3px 0px #394269 !important;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*.my_profile_main{
+	margin-top:-20px !important;
+ }
+ .studCon{
+ background:#E7E8FD;
+ height:650px;
+ padding:20px;
+}
+
+
+
+.proflieImagery{
+	position:absolute;
+	float:left;
+	margin-left:80px;
+	top:40px;
+	padding:5px;
+	
+}
+
+.profileNames{
+	float:left;
+	position:absolute;
+	margin-left:96px;
+	top:150px;
+	color:#000000;
+	font-variant:bolder;
+	font-size:10px;
+	padding:5px;
+}
+
+.all-stu-profile{
+	font-family:'Raleway-Regular';
+	margin:7px 0px;
+	font-size:17px;
+	text-align:center;
+	font-size:17px;
+	float:right;
+
+
+}
+
+.contact-infomi{
+	font-family:'Raleway-Light';
+	float:left;
+	margin-left:30px;
+	padding:5px;
+	margin:10px 0px;
+	font-size:18px;
+	font-style:bold;
+}
+
+.contact-infomi .myparaCon{
+	font-size:18px;
+	font-weight: bold;
+}
+
+.cont-side{
+	float:left;
+	margin-left:40px;
+	font-family:'Anna';
+	font-size:17px;
+	padding:10px;
+	border-bottom:1px dashed #CACCFB;
+}
+
+.cont-side .center{
+	float:left;
+	margin-left:40px;
+}
+
+.cont-side span{
+	float:left;
+	margin-left:30px;
+}
+.conTName{
+	float:left;
+	margin-left:1px;
+	top:170px;
+	position:absolute;
+}
+
+.OccupationStudes{
+float:left;
+margin-left:58px;
+top:200px;
+position:absolute;
+}
+
+.studCon .std-name{
+	text-align:center;
+	margin:10px 0px;
+	font-family:'Segan-Light';
+	font-size:17px;
+	font-weight: bold;
+}
+.side-bar-head{
+	border-bottom:1px dashed #CACCFB;
+}
+
+.nameCon{
+	float:left;
+	position:absolute;
+	top:8px;
+	margin-left:10px;
+}
+
+.studCon img{
+	padding:2px;
+	border:1px solid #CACCFB;
+	margin: auto;
+	padding: auto;
+	border-radius:100px;
+	width:100px;
+	height:100px;
+}
+
+.studConSecond{
+	 background:#E7E8FD;
+	 height:65px;
+}
+
+.whitetech{
+	background-image:none;
+}
+.navMain .navbar-default{
+	background: none;
+	border: none;
+
+}
+
+
+
+i.sosTF{
+	float: left;
+	margin-left:40px;
+	padding:5px;
+	
+}
+
+.fin{
+	clear: both;
+}
+.profAddr{
+	float:left;
+	position:absolute;
+	top:220px;
+	margin-left:70px;
+
+}
+.ruler{
+	border:1px solid #A0A0A0;
+	float: left;
+	width: 704px;
+	margin-left: 29.5px;
+	position: absolute;
+	top: 50px;
+}
+
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus{
+	background: none;
+	color: none;
+}
+.nav .navbar-nav, .active{
+	background: #fff;
+	border-bottom:3px solid #394263;
+	z-index:3;
+}
+
+.cont{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	padding: 5px;
+}
+
+#divides{
+	border: 1px dotted #CCCCCC;
+	float:left;
+	position: absolute;
+
+}
+
+
+
+.adr{
+	float: left;
+	margin-left: 80px;
+	position: absolute;
+	top:100px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+}
+
+.adr span{
+	margin-left: 150px;
+}
+
+.emial{
+	float: left;
+	margin-left: 80px;
+	position: absolute;
+	top:150px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	width:658px;
+
+}
+
+.emial span{
+	margin-left: 175px;
+}
+
+.basic{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	top: 200px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	width:658px;
+}
+
+.birthday{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	top: 250px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	width:658px;
+}
+
+.birthday span{
+	margin-left: 160px;
+}
+
+.gender{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	top: 300px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	width:658px;
+}
+
+.gender span{
+	margin-left: 160px;
+}
+
+.lan{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	top: 350px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	width:658px;
+}
+
+.lan span{
+	margin-left: 140px;
+
+}
+
+.col-md-9 img{
+width:50px;
+height:50px;
+border-radius:100px;
+border:1px solid #fff;
+padding:3px;
+}
+.photo{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	top: 400px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	display:inline;
+}
+
+
+
+.gall{
+	float:left;
+	margin-left: 80px;
+	position: absolute;
+	top: 450px;
+	padding: 5px;
+	border-bottom: 1px dotted #CCCCCC;
+	display:inline;
+}
+
+.gall img{
+	float: left;
+	padding:10px;display: block;
+}
+
+ .main-content{
+background:none;
+}*/
+
+.mainpanelJustify{
+	
+}
+
+.myprofImg img{
+	float:left;
+	margin-left:40px;
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	
+}
+
+.fixMe{
+	clear:both;
+}
+
+.rightContInfoProfile span{
+	float:right;
+
+}
+
+.leadMe{
+	font-family: 'Lato-Bold';
+	font-size:20px;
+}

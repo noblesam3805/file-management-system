@@ -1,0 +1,8 @@
+1. List of security units in the admin/create security (done)
+2. Integrate biometric security in the case of fund transfer and withdrawal both in the admin and the cutomer section (done)
+3. complete the fraud map details (done)
+4. integrate intelligence into the banking application: keep track of fraudstars whose issues have not been resolved.
+ customers whose issues have not been resolved can't login into their account until their issues with the security unit
+ is resolved... also keep a log of the number of trials and keep the security unit informed of this info.
+5. Make the account number 11 digit (done)
+6. hide the voice authentication text (done)

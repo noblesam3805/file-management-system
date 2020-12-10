@@ -1,0 +1,110 @@
+56028343GD
+
+
+
+OSUAGWU PRECIOUS
+
+
+
+08034421463
+08174771020
+
+4037
+
+sadmin/student_portal
+
+BD/14/70077
+
+
+$invoice_data = array(
+               'mobile_no'=>$mobile_no,
+               'surname' => $surname,
+               'firstname' => $firstname,
+			   'middlename'=> $middlename,
+			   'order_id'=>$orderID,
+			   'application_type_id' =>$application_form_category,
+			   'session_id' =>'1',
+			   'identification_no'=>$identification_no,
+			   'invoice_no'=>$invoice_code,
+			   'amount' => $amount,
+			   'date_generated' => date('Y-m-d H:i:s'),
+			   'rrr' => 'O1524356',
+			   'email' => $email
+			   
+            );
+			
+
+
+
+Nekede  HND Admissions  CPanel
+
+Database Username: fpnoedup_admin
+Database:  fpnoedup_fpnohndregistration
+username for Cpanel  : fpnoeduportal.com
+Password for Both: 365486@@GT%$7COl
+
+
+FPNO WEBSITE
+User: k5r3d2k1_newuser
+Database: k5r3d2k1_fpnoedu_newsite
+pASS: 1@gtco64 
+
+
+FPNO PORTAL
+User: Username: fpnoedup_admin
+Database: ***
+pASS: 365486@@GT%$7COl
+
+
+
+ALVAN PORTAL
+User: Username: d4c9a1m1_admin
+Database: d4c9a1m1_dmatrix0_eduportal, d4c9a1m1_dmatrix0_edutrac
+pASS: 365253@@GT%$8GOV
+4224
+hostgator.com/ip
+
+LUFEM FOR ALVAN
+Username: ikeukweh@yahoo.com
+Password: 1@gtco64
+
+LUFEM FOR FPNO
+
+Host1plus
+Username: freelansa@gmail.com
+Password: readyyes111
+
+Lufem
+Username: freelansa@gmail.com
+Password:  1@gtco64
+
+
+HOSTING- HOSTGATOR
+
+
+Billing Account
+
+    Hostgator Billing Portal: https://portal.hostgator.com
+    Login name / email address: victor.ofene@gmail.com
+    Password: qz10vm64fu
+
+
+-- CONTROL PANEL ALVAN'
+username: d4c9a1m1
+password: 1@Gtco72
+
+FTP ACCOUNT - ALVAN
+
+
+
+FTP Account
+
+Username: gtcositeadmin@fpno.edu.ng
+Server: cloud9.hostgator.com
+FTP port: 21, SFTP port: 2222 
+Password : 1@gtco64
+
+
+
+			
+	

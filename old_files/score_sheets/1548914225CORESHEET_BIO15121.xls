@@ -1,0 +1,42 @@
+        <table width="920px"  class="myColumnId" border="1" >
+      <thead>
+        <tr  bgcolor="#00a651">
+          <th width="61"><div align="left" class="style6"><span class="style4">SN</span></div></th>
+          <th width="80" ><div align="left" ><span class="style4">MATRIC NO</span></div></th>
+          <th width="180" ><div align="left" class="style6"><span class="style4">STUDENT NAME</span></div></th>
+          <th width="263"><div align="left" class="style6"><span class="style4">DEPARTMENT </span></div></th>
+          <th width="141"><div align="center" class="style6"><span class="style4">ASSG. SCORE</span></div></th>
+          <th width="141"><div align="center" class="style6"><span class="style4">TEST SCORE</span></div></th>
+          <th width="141"><div align="center" class="style6"><span class="style4">EXAMS SCORE</span></div></th>
+          <th width="111"><div align="left" class="style6"><span class="style4">PROGRAMME</span></div></th>
+          <th width="159"><div align="center" class="style6"><span class="style4">PROGRAMME TYPE</span></div></th>
+		  <th width="141"><div align="center" class="style6"><span class="style4">SESSION</span></div></th>
+          <th width="141"><div align="center" class="style6"><span class="style4">COURSE CODE</span></div></th>
+           <th width="0"><div align="center" class="style6"><span class="style4">CID</span></div></th>
+            <th width="0"><div align="center" class="style6"><span class="style4">CID</span></div></th>
+ 
+        
+        </tr>
+      </thead>
+         <tbody> 
+         
+          
+          <tr >
+             <td>1</td>
+             <td>77127811HG</td>
+             <td >Abbey Kingsley Atedo</td>
+             <td>Food Science and Technology</td>
+             <td align="left">0</td>
+             <td align="left">0</td>
+             <td align="left">0</td>
+             <td>DEGREE</td>
+             <td>DEGREE REGULAR</td>
+             <td>2018/2019</td>
+              <td>BIO 151</td>
+              <td width="0" >21</td> 
+              <td width="0" >2</td> 
+            
+           </tr>            </tbody>
+           </table>
+           
+           

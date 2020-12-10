@@ -1,0 +1,65 @@
+-- phpMyAdmin SQL Dump
+-- version 4.0.10.7
+-- http://www.phpmyadmin.net
+--
+-- Host: localhost
+-- Generation Time: Mar 16, 2015 at 02:47 AM
+-- Server version: 5.5.42-cll
+-- PHP Version: 5.4.23
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `dmatrix0_eduportal`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `counter`
+--
+
+CREATE TABLE IF NOT EXISTS `counter` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `idno` varchar(255) NOT NULL,
+  `serial` varchar(255) NOT NULL,
+  `pin` varchar(255) NOT NULL,
+  `hostel_name` varchar(255) NOT NULL,
+  `room_no` int(11) NOT NULL,
+  `space` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4798 ;
+
+--
+-- Dumping data for table `counter`
+--
+
+INSERT INTO `counter` (`id`, `idno`, `serial`, `pin`, `hostel_name`, `room_no`, `space`) VALUES
+(921, 'BD/14/70045', '667141', '7FB8330CC981', 'HOSTEL H', 3, 12),
+(1899, 'BD/12/58847', '471228', 'B1FF17B8B877', 'HOSTEL H', 3, 2),
+(1926, 'BD/11/55650', '205221', 'AD1BC8775F86', 'HOSTEL H', 3, 3),
+(2633, 'BD/14/68410', '851025', 'AA2F99EBFD00', 'HOSTEL H', 3, 1),
+(3209, '12/61792', '517507', 'A54C0D1D7AC0', 'HOSTEL H', 3, 4),
+(3621, 'BD/13/66785', '389489', 'E5AF084478E3', 'HOSTEL H', 3, 5),
+(3885, '12/61885', '229391', 'D7B8E246B69A', 'HOSTEL H', 3, 10),
+(4219, 'BD/14/70910', '695266', '1E0E16CC823F', 'HOSTEL H', 3, 6),
+(4276, '13/63923', '115792', '2A9BF65497FB', 'HOSTEL H', 3, 7),
+(4387, '13/63336', '838610', '348D0084F058', 'HOSTEL H', 3, 11),
+(4415, '13/63412', '283059', '64d39e9474d0', 'HOSTEL H', 3, 16),
+(4480, 'BD/11/57541', '277154', '80efa1b2cbcd', 'HOSTEL H', 3, 9),
+(4600, '0011991', '177124', 'AE88795DAFEF', 'HOSTEL H', 3, 13),
+(4635, 'BD/14/67668', '357519', 'B6FF4090C447', 'HOSTEL H', 3, 14),
+(4673, 'BD/14/69948', '910076', '9C1F1D7E2CC5', 'HOSTEL H', 3, 15);
+
+(4417, 'BD/11/57413', '702709', 'E10E87F4E917', 'HOSTEL G3', 4, 5);
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

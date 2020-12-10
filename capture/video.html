@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Media Device Access</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    video, img {
+      max-width:100%;
+    }
+  </style>
+
+  <script src = "video.js"></script>
+</head>
+<body>
+  <video autoplay></video>
+<img id = "vvv"/>
+  <button onclick = "videoCapture()">Start</button>
+ <button onclick = "displayImg()">display</button>
+ <form method = "post" id = "forme" name="forme" action="upload.php">
+  <input type="text" id = "imageFile" name="imageFile" style="visibility:hidden"/>
+ </form>
+</body>
+</html>

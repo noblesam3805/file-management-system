@@ -1,0 +1,288 @@
+1,Bauchi,NULL,5504,1,1
+2,Gombe,NULL,5504,1,1
+3,Lokoja,NULL,5504,1,1
+4,Minna,NULL,5504,1,1
+5,Makurdi,NULL,5504,1,1
+6,Sokoto,NULL,5504,1,1
+7,Yola,NULL,5504,1,1
+8,Zaria,NULL,5504,1,1
+9,Katsina,NULL,5504,1,1
+10,Nassarawa,NULL,5504,1,1
+11,Kebbi,NULL,5504,1,1
+12,Zamfara,NULL,5504,1,1
+13,Taraba,NULL,5504,1,1
+14,Akure,NULL,4028,1,1
+15,Ilorin,NULL,4028,1,1
+16,Aba,NULL,4028,1,1
+17,Abuja,NULL,4028,1,1
+18,Calabar,NULL,4020,1,1
+19,Enugu,NULL,4028,1,1
+20,Jos,NULL,4028,1,1
+21,Kaduna,NULL,4028,1,1
+22,Kano,NULL,4028,1,1
+23,Maidugiri,NULL,4028,1,1
+24,Onitsha,NULL,4028,1,1
+25,Owerri,NULL,4028,1,1
+26,Port Harcourt,NULL,4028,1,1
+27,Warri,NULL,4028,1,1
+28,Uyo,NULL,4028,1,1
+29,Ekiti,NULL,4028,1,1
+30,Ebonyi,NULL,4028,1,1
+31,Jigawa,NULL,4028,1,1
+32,Yobe,NULL,4028,1,1
+33,Bayelsa,NULL,4028,1,1
+34,Abeokuta,NULL,2886,1,1
+35,Ibadan,NULL,2886,1,1
+36,Osun,NULL,2886,1,1
+37,Benin,NULL,2886,1,1
+38,Lagos,NULL,916,1,1
+39,England (London),NULL,12087.31,1,2
+40,Benin,NULL,14475.32,1,2
+41,Burkina Faso,NULL,14475.32,1,2
+42,Cameroon,NULL,14475.32,1,2
+43,Chad,NULL,14475.32,1,2
+44,Côte d'Ivoire (Ivory Coast),NULL,14475.32,1,2
+45,Equatorial Guinea,NULL,14475.32,1,2
+46,Gabon,NULL,14475.32,1,2
+47,Gambia,NULL,14475.32,1,2
+48,Ghana,NULL,14475.32,1,2
+49,Guinea,NULL,14475.32,1,2
+50,Guinea Bissau,NULL,14475.32,1,2
+51,Ivory Coast (Côte d'Ivoire),NULL,14475.32,1,2
+52,Liberia,NULL,14475.32,1,2
+53,Mali,NULL,14475.32,1,2
+54,Mauritania,NULL,14475.32,1,2
+55,Niger,NULL,14475.32,1,2
+56,Senegal,NULL,14475.32,1,2
+57,Sierra Leone,NULL,14475.32,1,2
+58,South Africa,NULL,14475.32,1,2
+59,Togo,NULL,14475.32,1,2
+60,Channel Islands (Guernsey),NULL,14599.81,1,2
+61,Channel Islands (Jersey),NULL,14599.81,1,2
+62,England (other),NULL,14599.81,1,2
+63,"Ireland, Republic of",NULL,14599.81,1,2
+64,Northern Ireland,NULL,14599.81,1,2
+65,Scotland,NULL,14599.81,1,2
+66,Wales,NULL,14599.81,1,2
+67,Andorra,NULL,17677.3,1,2
+68,Austria,NULL,17677.3,1,2
+69,Azores,NULL,17677.3,1,2
+70,Belgium,NULL,17677.3,1,2
+71,Canary Islands,NULL,17677.3,1,2
+72,Ceuta,NULL,17677.3,1,2
+73,Cyprus,NULL,17677.3,1,2
+74,Denmark,NULL,17677.3,1,2
+75,Finland,NULL,17677.3,1,2
+76,France,NULL,17677.3,1,2
+77,Germany,NULL,17677.3,1,2
+78,Gibraltar,NULL,17677.3,1,2
+79,Greece,NULL,17677.3,1,2
+80,Holland (The Netherlands),NULL,17677.3,1,2
+81,Iceland,NULL,17677.3,1,2
+82,Italy,NULL,17677.3,1,2
+83,Liechtenstein,NULL,17677.3,1,2
+84,Luxembourg,NULL,17677.3,1,2
+85,Madeira,NULL,17677.3,1,2
+86,Malta,NULL,17677.3,1,2
+87,Melilla,NULL,17677.3,1,2
+88,Monaco,NULL,17677.3,1,2
+89,"Netherlands, The (Holland)",NULL,17677.3,1,2
+90,Norway,NULL,17677.3,1,2
+91,Portugal (excluding Azores and Madeira),NULL,17677.3,1,2
+92,San Marino,NULL,17677.3,1,2
+94,Sweden,NULL,17677.3,1,2
+95,Switzerland,NULL,17677.3,1,2
+96,Turkey,NULL,17677.3,1,2
+97,Canada,NULL,18103.43,1,2
+98,Mexico,NULL,18103.43,1,2
+99,Puerto Rico,NULL,18103.43,1,2
+100,United States,NULL,18103.43,1,2
+101,Algeria,NULL,23160.75,1,2
+102,Angola,NULL,23160.75,1,2
+103,Botswana,NULL,23160.75,1,2
+104,Burundi,NULL,23160.75,1,2
+105,Cape Verde Islands,NULL,23160.75,1,2
+106,Central African Republic,NULL,23160.75,1,2
+107,Comoros,NULL,23160.75,1,2
+108,Congo (Brazzaville),NULL,23160.75,1,2
+109,"Congo, Democratic Republic of",NULL,23160.75,1,2
+110,Djibouti,NULL,23160.75,1,2
+111,Egypt,NULL,23160.75,1,2
+112,Eritrea,NULL,23160.75,1,2
+113,Ethiopia,NULL,23160.75,1,2
+114,Kenya,NULL,23160.75,1,2
+115,Lesotho,NULL,23160.75,1,2
+116,Madagascar,NULL,23160.75,1,2
+117,Malawi,NULL,23160.75,1,2
+118,Mauritius,NULL,23160.75,1,2
+119,Mayotte,NULL,23160.75,1,2
+120,Morocco,NULL,23160.75,1,2
+121,Mozambique,NULL,23160.75,1,2
+122,Namibia,NULL,23160.75,1,2
+123,Reunion,NULL,23160.75,1,2
+124,Rwanda,NULL,23160.75,1,2
+125,Seychelles,NULL,23160.75,1,2
+126,Swaziland,NULL,23160.75,1,2
+127,Tanzania,NULL,23160.75,1,2
+128,Tunisia,NULL,23160.75,1,2
+129,Uganda,NULL,23160.75,1,2
+130,Zambia,NULL,23160.75,1,2
+131,Zimbabwe,NULL,23160.75,1,2
+132,Albania,NULL,23245.74,1,2
+133,Armenia,NULL,23245.74,1,2
+134,Azerbaijan,NULL,23245.74,1,2
+135,Bahrain,NULL,23245.74,1,2
+136,Belarus (Byelorussia),NULL,23245.74,1,2
+137,Bosnia-Herzegovina,NULL,23245.74,1,2
+138,Bulgaria,NULL,23245.74,1,2
+139,Croatia,NULL,23245.74,1,2
+140,Czech Republic,NULL,23245.74,1,2
+141,Estonia,NULL,23245.74,1,2
+142,Gaza (West Bank),NULL,23245.74,1,2
+143,Georgia,NULL,23245.74,1,2
+144,Hungary,NULL,23245.74,1,2
+145,Iraq,NULL,23245.74,1,2
+146,Israel,NULL,23245.74,1,2
+147,Jordan,NULL,23245.74,1,2
+148,Kazakhstan,NULL,23245.74,1,2
+149,Kosovo,NULL,23245.74,1,2
+150,Kuwait,NULL,23245.74,1,2
+151,Kyrgyzstan,NULL,23245.74,1,2
+152,Latvia,NULL,23245.74,1,2
+153,Lebanon,NULL,23245.74,1,2
+154,Libya,NULL,23245.74,1,2
+155,Lithuania,NULL,23245.74,1,2
+156,Macedonia (FYROM),NULL,23245.74,1,2
+157,Moldova,NULL,23245.74,1,2
+158,Montenegro,NULL,23245.74,1,2
+159,Oman,NULL,23245.74,1,2
+160,Poland,NULL,23245.74,1,2
+161,Qatar,NULL,23245.74,1,2
+162,Romania,NULL,23245.74,1,2
+163,Russia,NULL,23245.74,1,2
+164,Saudi Arabia,NULL,23245.74,1,2
+165,Serbia,NULL,23245.74,1,2
+166,Slovak Republic,NULL,23245.74,1,2
+167,Slovenia,NULL,23245.74,1,2
+168,Tajikistan,NULL,23245.74,1,2
+169,Turkmenistan,NULL,23245.74,1,2
+170,Ukraine,NULL,23245.74,1,2
+171,United Arab Emirates,NULL,23245.74,1,2
+172,Uzbekistan,NULL,23245.74,1,2
+173,West Bank (Gaza),NULL,23245.74,1,2
+174,"Yemen, Republic of",NULL,23245.74,1,2
+175,Afghanistan,NULL,25553.56,1,2
+176,Australia,NULL,25553.56,1,2
+177,Bangladesh,NULL,25553.56,1,2
+178,Bhutan,NULL,25553.56,1,2
+179,Brunei,NULL,25553.56,1,2
+180,Cambodia,NULL,25553.56,1,2
+181,"China, People's Republic of",NULL,25553.56,1,2
+182,Hong Kong,NULL,25553.56,1,2
+183,India,NULL,25553.56,1,2
+184,Indonesia,NULL,25553.56,1,2
+185,Japan,NULL,25553.56,1,2
+186,"Korea, South",NULL,25553.56,1,2
+187,Laos,NULL,25553.56,1,2
+188,Macau,NULL,25553.56,1,2
+189,Malaysia,NULL,25553.56,1,2
+190,Mongolia,NULL,25553.56,1,2
+191,Myanmar,NULL,25553.56,1,2
+192,Nepal,NULL,25553.56,1,2
+193,New Zealand,NULL,25553.56,1,2
+194,Pakistan,NULL,25553.56,1,2
+195,Philippines,NULL,25553.56,1,2
+196,Singapore,NULL,25553.56,1,2
+197,Sri Lanka,NULL,25553.56,1,2
+198,Taiwan,NULL,25553.56,1,2
+199,Thailand,NULL,25553.56,1,2
+200,Vietnam,NULL,25553.56,1,2
+201,American Samoa,NULL,32006.58,1,2
+202,Anguilla,NULL,32006.58,1,2
+203,Antigua and Barbuda,NULL,32006.58,1,2
+204,Argentina,NULL,32006.58,1,2
+205,Aruba,NULL,32006.58,1,2
+206,Bahamas,NULL,32006.58,1,2
+207,Barbados,NULL,32006.58,1,2
+208,Barbuda (Antigua),NULL,32006.58,1,2
+209,Belize,NULL,32006.58,1,2
+210,Bermuda,NULL,32006.58,1,2
+211,Bolivia,NULL,32006.58,1,2
+212,Bonaire,NULL,32006.58,1,2
+213,Brazil,NULL,32006.58,1,2
+214,British Virgin Islands,NULL,32006.58,1,2
+215,Cayman Islands,NULL,32006.58,1,2
+216,Chile,NULL,32006.58,1,2
+217,Colombia,NULL,32006.58,1,2
+218,Cook Islands,NULL,32006.58,1,2
+219,Costa Rica,NULL,32006.58,1,2
+220,Curaçao,NULL,32006.58,1,2
+221,Dominica,NULL,32006.58,1,2
+222,Dominican Republic,NULL,32006.58,1,2
+223,East Timor,NULL,32006.58,1,2
+224,Ecuador,NULL,32006.58,1,2
+225,El Salvador,NULL,32006.58,1,2
+226,Faroe Islands,NULL,32006.58,1,2
+227,Fiji,NULL,32006.58,1,2
+228,French Guiana,NULL,32006.58,1,2
+229,French Polynesia,NULL,32006.58,1,2
+230,Greenland,NULL,32006.58,1,2
+231,Grenada,NULL,32006.58,1,2
+232,Guadeloupe,NULL,32006.58,1,2
+233,Guam,NULL,32006.58,1,2
+234,Guatemala,NULL,32006.58,1,2
+235,Guyana,NULL,32006.58,1,2
+236,Haiti,NULL,32006.58,1,2
+237,Honduras,NULL,32006.58,1,2
+238,Jamaica,NULL,32006.58,1,2
+239,Kiribati,NULL,32006.58,1,2
+240,"Kosrae (Micronesia, Federated States of)",NULL,32006.58,1,2
+241,Maldives,NULL,32006.58,1,2
+242,Marshall Islands,NULL,32006.58,1,2
+243,Martinique,NULL,32006.58,1,2
+244,Micronesia (Federated States of),NULL,32006.58,1,2
+245,Montserrat,NULL,32006.58,1,2
+246,Nevis (St. Kitts),NULL,32006.58,1,2
+247,New Caledonia,NULL,32006.58,1,2
+248,Nicaragua,NULL,32006.58,1,2
+249,Northern Mariana Islands,NULL,32006.58,1,2
+250,Palau,NULL,32006.58,1,2
+251,Panama,NULL,32006.58,1,2
+252,Papua New Guinea,NULL,32006.58,1,2
+253,Paraguay,NULL,32006.58,1,2
+254,Peru,NULL,32006.58,1,2
+255,"Ponape (Micronesia, Federated States of)",NULL,32006.58,1,2
+256,Rota (Northern Mariana Islands),NULL,32006.58,1,2
+257,Saba,NULL,32006.58,1,2
+258,Saipan (Northern Mariana Islands),NULL,32006.58,1,2
+259,Samoa,NULL,32006.58,1,2
+260,Solomon Islands,NULL,32006.58,1,2
+261,St. Barthelemy,NULL,32006.58,1,2
+262,St. Christopher (St. Kitts),NULL,32006.58,1,2
+263,St. Croix (US Virgin Islands),NULL,32006.58,1,2
+264,St. Eustatius,NULL,32006.58,1,2
+265,St. John (US Virgin Islands),NULL,32006.58,1,2
+266,St. Kitts (St. Christopher),NULL,32006.58,1,2
+267,St. Lucia,NULL,32006.58,1,2
+268,St. Maarten,NULL,32006.58,1,2
+269,St. Martin (Guadeloupe),NULL,32006.58,1,2
+270,St. Thomas (US Virgin Islands),NULL,32006.58,1,2
+271,St. Vincent and the Grenadines,NULL,32006.58,1,2
+272,Suriname,NULL,32006.58,1,2
+273,Tahiti,NULL,32006.58,1,2
+274,Tinian (Northern Mariana Islands),NULL,32006.58,1,2
+275,Tonga,NULL,32006.58,1,2
+276,Tortola (British Virgin Islands),NULL,32006.58,1,2
+277,Trinidad and Tobago,NULL,32006.58,1,2
+278,"Truk (Micronesia, Federated States of)",NULL,32006.58,1,2
+279,Turks and Caicos Islands,NULL,32006.58,1,2
+280,Tuvalu,NULL,32006.58,1,2
+281,Union Island (St. Vincent and the Grenadines),NULL,32006.58,1,2
+282,Uruguay,NULL,32006.58,1,2
+283,Vanuatu,NULL,32006.58,1,2
+284,Venezuela,NULL,32006.58,1,2
+285,Virgin Gorda (British Virgin Islands),NULL,32006.58,1,2
+286,Virgin Islands (US),NULL,32006.58,1,2
+287,Wallis and Futuna Islands,NULL,32006.58,1,2
+288,"Yap (Micronesia, Federated States of)",NULL,32006.58,1,2
+NULL,NULL,NULL,NULL,NULL,NULL

@@ -1,0 +1,311 @@
+[30-Oct-2018 05:06:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/imshiapo/public_html/capture/config.php:11
+Stack trace:
+#0 /home/imshiapo/public_html/capture/config.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/imshiapo/public_html/capture/customer/registered.php(4): include_once('/home/imshiapo/...')
+#2 {main}
+  thrown in /home/imshiapo/public_html/capture/config.php on line 11
+[30-Oct-2018 05:08:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imshiapo/public_html/capture/customer/header.php:92) in /home/imshiapo/public_html/capture/customer/registered.php on line 31
+[30-Oct-2018 05:11:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imshiapo/public_html/capture/customer/header.php:92) in /home/imshiapo/public_html/capture/customer/registered.php on line 31
+[30-Oct-2018 05:12:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imshiapo/public_html/capture/customer/header.php:92) in /home/imshiapo/public_html/capture/customer/registered.php on line 31
+[30-Oct-2018 05:12:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imshiapo/public_html/capture/customer/header.php:92) in /home/imshiapo/public_html/capture/customer/registered.php on line 31
+[30-Oct-2018 05:19:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imshiapo/public_html/capture/customer/header.php:92) in /home/imshiapo/public_html/capture/customer/registered.php on line 30
+[30-Oct-2018 05:21:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/imshiapo/public_html/capture/customer/header.php:92) in /home/imshiapo/public_html/capture/customer/registered.php on line 30
+[30-Oct-2018 07:25:53 UTC] PHP Parse error:  syntax error, unexpected 'that' (T_STRING) in /home/ashiapor/public_html/capture/config.php on line 5
+[30-Oct-2018 07:29:18 UTC] PHP Parse error:  syntax error, unexpected 'that' (T_STRING) in /home/ashiapor/public_html/capture/config.php on line 5
+[30-Oct-2018 07:30:40 UTC] PHP Parse error:  syntax error, unexpected 'that' (T_STRING) in /home/ashiapor/public_html/capture/config.php on line 5
+[07-Dec-2018 11:50:36 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[17-Dec-2018 18:36:00 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[17-Dec-2018 18:36:05 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[09-Jan-2019 13:29:43 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[05-Feb-2019 11:10:11 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[07-Feb-2019 07:29:12 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[14-Feb-2019 11:12:24 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[09-May-2019 12:15:03 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[23-May-2019 12:40:03 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[10-Jun-2019 13:41:51 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Jun-2019 13:42:57 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[11-Jun-2019 12:18:08 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[13-Jun-2019 10:42:57 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[13-Jun-2019 11:35:49 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[13-Jun-2019 12:08:52 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[14-Jun-2019 14:48:15 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Jun-2019 11:15:20 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[20-Jun-2019 12:38:00 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[03-Jul-2019 10:00:52 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[24-Jul-2019 15:24:57 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[29-Jul-2019 14:12:29 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Jul-2019 10:59:47 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Jul-2019 11:42:08 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Jul-2019 12:08:27 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Jul-2019 14:06:57 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Jul-2019 14:16:14 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Jul-2019 15:57:35 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Jul-2019 16:09:05 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Jul-2019 16:09:13 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Jul-2019 16:09:35 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[31-Jul-2019 08:47:20 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Jul-2019 08:48:31 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Jul-2019 11:30:10 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[31-Jul-2019 13:11:30 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Jul-2019 15:19:48 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Jul-2019 15:47:49 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[03-Aug-2019 11:07:14 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[05-Aug-2019 16:00:23 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[05-Aug-2019 16:01:28 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[05-Aug-2019 16:05:41 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[05-Aug-2019 16:45:31 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[06-Aug-2019 13:12:22 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[06-Aug-2019 13:27:28 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[06-Aug-2019 13:28:43 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[06-Aug-2019 13:30:41 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[06-Aug-2019 13:34:38 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[06-Aug-2019 13:34:59 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[06-Aug-2019 14:30:37 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[07-Aug-2019 11:37:14 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[07-Aug-2019 12:20:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Aug-2019 11:50:42 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[12-Aug-2019 11:51:55 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[12-Aug-2019 11:52:45 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[14-Aug-2019 07:31:26 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[14-Aug-2019 14:38:32 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[15-Aug-2019 12:02:00 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[15-Aug-2019 12:55:02 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[15-Aug-2019 12:58:08 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[15-Aug-2019 12:58:47 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[15-Aug-2019 13:39:37 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Aug-2019 12:42:35 UTC] PHP Warning:  file_put_contents(): Only 0 of 86059 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[17-Aug-2019 12:44:17 UTC] PHP Warning:  file_put_contents(): Only 0 of 68072 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[17-Aug-2019 12:45:12 UTC] PHP Warning:  file_put_contents(): Only 0 of 86129 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[20-Aug-2019 09:43:42 UTC] PHP Warning:  file_put_contents(): Only 0 of 80613 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[20-Aug-2019 09:46:02 UTC] PHP Warning:  file_put_contents(): Only 0 of 68279 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[20-Aug-2019 10:11:38 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[22-Aug-2019 09:26:23 UTC] PHP Warning:  file_put_contents(): Only 0 of 75350 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[02-Sep-2019 09:24:22 UTC] PHP Warning:  file_put_contents(): Only 0 of 77233 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 09:44:25 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[04-Sep-2019 12:13:49 UTC] PHP Warning:  file_put_contents(): Only 0 of 78664 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 12:22:18 UTC] PHP Warning:  file_put_contents(): Only 0 of 82451 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:35:29 UTC] PHP Warning:  file_put_contents(): Only 0 of 80928 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:42:06 UTC] PHP Warning:  file_put_contents(): Only 0 of 82155 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:44:26 UTC] PHP Warning:  file_put_contents(): Only 0 of 82155 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:44:39 UTC] PHP Warning:  file_put_contents(): Only 0 of 82155 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:45:02 UTC] PHP Warning:  file_put_contents(): Only 0 of 82155 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:46:07 UTC] PHP Warning:  file_put_contents(): Only 0 of 84394 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 13:46:52 UTC] PHP Warning:  file_put_contents(): Only 0 of 84394 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[04-Sep-2019 15:11:37 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[06-Sep-2019 09:50:45 UTC] PHP Warning:  file_put_contents(): Only 0 of 78676 bytes written, possibly out of free disk spa[09-Sep-2019 05:48:27 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[09-Sep-2019 15:10:20 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 09:49:52 UTC] PHP Warning:  file_put_contents(): Only 0 of 85535 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:34:50 UTC] PHP Warning:  file_put_contents(): Only 0 of 86208 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:36:59 UTC] PHP Warning:  file_put_contents(): Only 0 of 61935 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:38:12 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 10:38:53 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 10:38:53 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 10:39:31 UTC] PHP Warning:  file_put_contents(../../uploads/photos/enrollment/25892.jpg): failed to open stream: No space left on device in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:39:31 UTC] PHP Warning:  file_get_contents(../../uploads/photos/enrollment/25892.jpg): failed to open stream: No such file or directory in /home/ashiapor/public_html/capture/customer/registered.php on line 22
+[10-Sep-2019 10:39:39 UTC] PHP Warning:  file_put_contents(../../uploads/photos/enrollment/25892.jpg): failed to open stream: No space left on device in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:39:40 UTC] PHP Warning:  file_get_contents(../../uploads/photos/enrollment/25892.jpg): failed to open stream: No such file or directory in /home/ashiapor/public_html/capture/customer/registered.php on line 22
+[10-Sep-2019 10:39:53 UTC] PHP Warning:  file_put_contents(../../uploads/photos/enrollment/25892.jpg): failed to open stream: No space left on device in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:39:53 UTC] PHP Warning:  file_get_contents(../../uploads/photos/enrollment/25892.jpg): failed to open stream: No such file or directory in /home/ashiapor/public_html/capture/customer/registered.php on line 22
+[10-Sep-2019 10:40:19 UTC] PHP Warning:  file_put_contents(): Only 0 of 61935 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:40:29 UTC] PHP Warning:  file_put_contents(): Only 0 of 61935 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:40:57 UTC] PHP Warning:  file_put_contents(): Only 0 of 61585 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:41:08 UTC] PHP Warning:  file_put_contents(): Only 0 of 63114 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:41:11 UTC] PHP Warning:  file_put_contents(): Only 0 of 83986 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:41:20 UTC] PHP Warning:  file_put_contents(): Only 0 of 80562 bytes written, possibly out of free disk space in /home/ashiapor/public_html/capture/customer/registered.php on line 18
+[10-Sep-2019 10:41:37 UTC] PHP Warn[10-Sep-2019 12:01:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 12:03:07 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 12:13:46 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:03:07 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:03:39 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:25:56 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:38:32 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:38:55 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:40:12 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:40:30 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:40:37 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:40:46 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:40:58 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:41:08 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:41:14 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:41:16 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:41:27 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:41:33 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:41:40 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:42:05 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:42:55 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:43:00 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:43:20 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:43:30 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:43:42 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:44:04 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:44:35 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:44:49 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:50:03 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:50:42 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:51:08 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 13:51:18 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:42:15 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:51:28 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:55:27 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:55:58 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:56:13 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:56:21 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:56:47 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 14:57:16 UTC] PHP Warning:  mysql_connect(): Too many connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Sep-2019 15:47:14 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[11-Sep-2019 13:42:37 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[11-Sep-2019 13:45:59 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[11-Sep-2019 14:32:01 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 09:56:33 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 10:11:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 10:26:50 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 11:46:41 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 12:08:10 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 12:08:18 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:08:34 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:17:17 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:17:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:20:59 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:21:27 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:47:47 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:47:47 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 13:49:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:10:29 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:12:04 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:12:36 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:13:22 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:21:35 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:35:59 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:37:58 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:41:16 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 14:54:41 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[12-Sep-2019 15:26:10 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[16-Sep-2019 14:16:34 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[16-Sep-2019 14:17:26 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:06:11 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:22:24 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:30:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:30:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:32:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:33:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[17-Sep-2019 13:37:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ashiapor/public_html/capture/config.php:3
+Stack trace:
+#0 /home/ashiapor/public_html/capture/customer/registered.php(2): include_once()
+#1 {main}
+  thrown in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 12:08:22 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 12:59:25 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 13:00:17 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 13:18:43 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 13:48:41 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 13:48:59 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 13:49:44 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[18-Sep-2019 13:49:57 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[25-Sep-2019 13:07:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Sep-2019 11:33:45 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[02-Oct-2019 11:43:07 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[02-Oct-2019 12:34:31 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[02-Oct-2019 13:20:00 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[02-Oct-2019 13:21:19 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[02-Oct-2019 13:22:22 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[03-Oct-2019 10:49:42 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[03-Oct-2019 11:50:11 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[03-Oct-2019 13:00:53 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[03-Oct-2019 13:03:41 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[10-Oct-2019 09:41:51 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[16-Oct-2019 12:12:28 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[16-Oct-2019 12:13:47 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[16-Oct-2019 12:14:01 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[28-Oct-2019 13:09:58 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[28-Oct-2019 13:24:30 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[29-Oct-2019 14:28:59 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:09:09 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:09:39 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:29:31 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:37:52 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:38:21 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:38:58 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:39:15 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:43:17 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:43:27 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:43:27 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:43:29 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:44:47 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:45:22 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:47:42 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:47:45 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:47:58 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:48:20 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 11:53:36 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:54:06 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 11:54:32 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[30-Oct-2019 12:22:44 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:22:46 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:23:14 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:23:14 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:23:48 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:24:18 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:49:55 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 12:57:23 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:00:19 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:13:50 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:14:07 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:14:24 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:14:30 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:14:46 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:15:01 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:15:43 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:15:54 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:16:13 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:19:35 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:20:11 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 13:40:03 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:08:07 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:09:06 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:15:42 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:17:52 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:18:24 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:18:49 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:20:53 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[30-Oct-2019 14:21:09 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 10:41:41 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 10:41:48 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[31-Oct-2019 10:50:10 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[31-Oct-2019 10:50:18 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34
+[31-Oct-2019 10:59:57 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:12:39 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:13:35 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:14:37 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:38:17 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:49:10 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:50:27 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:50:55 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 11:51:44 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 14:01:44 UTC] PHP Warning:  mysql_connect(): User ashiapor_usr already has more than 'max_user_connections' active connections in /home/ashiapor/public_html/capture/config.php on line 3
+[31-Oct-2019 14:04:18 UTC] PHP Notice:  Undefined variable: path2 in /home/ashiapor/public_html/capture/customer/registered.php on line 34

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+<script>
+
+var recognition = new webkitSpeechRecognition();
+
+	// Are we processing a short phrase or performing continuous dictation?
+	recognition.continuous = true; 
+
+	// Do we require interim results in addition to the final results?
+	recognition.interimResults = true;
+
+	// We speak The Queens English here, my good man
+	recognition.lang = 'en-GB' 
+
+
+
+	// Set up 
+	recognition.onstart = function(event){ 
+	 console.log("onstart", event);
+	} 
+
+	// Process parsed result
+	/*recognition.onresult = function(event){ 
+	 console.log("onresult", event);
+	} */
+
+	recognition.onresult = function(event) {
+   	 var interim_transcript = '';
+   	 var final_transcript = '';
+   	 var confidence = 0;
+
+	    for (var i = event.resultIndex; i < event.results.length; ++i) {
+	      if (event.results[i].isFinal) {
+		final_transcript += event.results[i][0].transcript;
+		confidence = event.results[i][0].confidence;
+	      } else {
+		interim_transcript += event.results[i][0].transcript;
+	      }
+	    }
+	    //final_transcript = capitalize(final_transcript);
+	    //final_span.innerHTML = linebreak(final_transcript);
+	    //interim_span.innerHTML = linebreak(interim_transcript);
+		console.log("Result",event);
+		console.log("Scripted result = "+final_transcript);
+		document.getElementById("speech").innerHTML = "<p>"+final_transcript+"</p>"+"<p>confidence: "+confidence+"</p>";
+		
+	  };
+	
+
+	// Handle error
+	recognition.onerror = function(event){
+	 console.log("onerror", event);
+	}
+
+	// Housekeeping after success or failed parsing
+	recognition.onend = function(){ 
+	 console.log("onend");
+	}
+
+function talk() {
+	// Kick off the Speech to Text recognition process
+	recognition.start();
+}
+
+
+</script>
+</head>
+
+<body>
+
+
+	
+</body>
+
+<button onclick="talk()">Talk</button>
+
+<div id="speech" style="width:20%; height:20%; background-color:black; color:white; font-size:0.8em;">
+	
+</div>
+
+</html>
+
+
